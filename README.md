@@ -15,7 +15,8 @@
 </div>
 
 <h2>Contato:</h2>
-- 📞 Me envie uma mensagem via Whatsapp (+55 43 99807-0042) ou clique <a href="https://wa.me/55043998070042">AQUI</a>.
+- 📞 Whatsapp: +55 043 99807-0042
+- 📧 Email: matheusescobozo@gmail.com
 
 
 
