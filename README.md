@@ -15,7 +15,7 @@
 </div>
 
 <h2>Contato:</h2>
-- 📞 Me envie uma mensagem via Whatsapp (+5543998070042) ou clique <a href="https://wa.me/55043998070042" target="__blank">AQUI</a>.
+- 📞 Me envie uma mensagem via Whatsapp (+5543998070042) ou clique <a href="https://wa.me/55043998070042" :target="_blank">AQUI</a>.
 
 
 
