@@ -14,6 +14,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" >
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscobz)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Contato:</h2>
 
 - 📞 Whatsapp: +55 043 99807-0042
