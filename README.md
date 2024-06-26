@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Matheus Escobozo Guizilini</h1>
+<h1 align="center">Olá 👋, me chamo Matheus!</h1>
 <h3 align="center">Sou um estudante de Ciência da Computação procurando sua primeira oportunidade na área da tecnologia!</h3>
 
 - 👀 Tenho interesse em desenvolvimento Front-End.
