@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Matheus!</h1>
-<h3 align="center">Sou um estudante de Ciência da Computação procurando sua primeira oportunidade na área da tecnologia!</h3>
+<h3 align="center">Sou um estudante de Ciência da Computação procurando se aperfeiçoar cada vez mais na tecnologia.</h3>
 
 - 👀 Tenho interesse em desenvolvimento Front-End.
 - 🌱 Atualmente estou aprendendo **JavaScript** e **React**.  
