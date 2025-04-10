@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Matheus</h1>
 <h3 align="center">Desenvolvedor de Software com formação em Ciência da Computação</h3>
 
-<p>Atualmente estou me aprofundando em <strong>Back-end</strong> e <strong>Front-end</strong>.</p>
+<p>Atualmente estou me aprofundando para virar <strong>FullStack</strong>.</p>
 <p>
   Desde a faculdade, sempre fui movido pela curiosidade e pela vontade de resolver problemas com tecnologia. Ao longo da minha trajetória, explorei diferentes áreas da Computação, mas foi no desenvolvimento de software que encontrei minha verdadeira paixão.
 
