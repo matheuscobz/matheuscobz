@@ -2,7 +2,13 @@
 <h3 align="center">Sou um Desenvolvedor de Software e possuo graduação em Ciência da Computação.</h3>
 
 - Atualmente estou estudando tanto back-end quanto front-end. 
-- Possuo grande afinidade com JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" >  
+<div display="flex justify-center align-center">
+  <span>- Possuo grande afinidade com:</span>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-            original.svg" alt="react" width="40" height="40">  
+</div>
+
   
 - Conhecimento atual em desenvolvimento: 
 <div display="flex">
