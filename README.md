@@ -33,8 +33,6 @@
 
 
 
-### 📊 Estatísticas do GitHub
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscobz&theme=dark&layout=compact&hide_progress=true" alt="Top Langs" />
 </p>
