@@ -1,32 +1,53 @@
-<h1 align="center">Olá 👋, me chamo Matheus</h1>
-<h3 align="center">Sou um Desenvolvedor de Software e possuo graduação em Ciência da Computação.</h3>
+<h1 align="center">Olá 👋, eu sou o Matheus</h1>
+<h3 align="center">Desenvolvedor de Software com formação em Ciência da Computação</h3>
 
-- Atualmente estou estudando tanto back-end quanto front-end. 
-<div display="flex justify-center align-center">
-  <span>- Possuo grande afinidade com:</span>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-            original.svg" alt="react" width="40" height="40">  
+<p>Atualmente estou me aprofundando em <strong>Back-end</strong> e <strong>Front-end</strong>.</p>
+<p>
+  Desde a faculdade, sempre fui movido pela curiosidade e pela vontade de resolver problemas com tecnologia. Ao longo da minha trajetória, explorei diferentes áreas da Computação, mas foi no desenvolvimento de software que encontrei minha verdadeira paixão.
+
+  Me dedico ao aprendizado contínuo e gosto de transformar ideias em soluções funcionais e bem construídas. Hoje, estou focado em aprimorar minhas habilidades tanto no **Back-end** quanto no **Front-end**, buscando sempre escrever código limpo e eficiente.
+</p>
+
+---
+
+### 🚀 Tecnologias com as quais tenho afinidade:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" />
 </div>
 
-  
-- Conhecimento atual em desenvolvimento: 
-<div display="flex">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/knexjs/knexjs-original.svg" alt="knex" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40">
- 
+### 📚 Tecnologias que estou estudando atualmente:
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/knexjs/knexjs-original.svg" alt="Knex" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/axios/axios-plain.svg" alt="Axios" width="40" height="40" />
 </div>
-<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscobz&hide=stars,prs,issues,contribss&theme=dark&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscobz&theme=dark&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Me encontre para parcerias ou contribuições:</h2>
 
-- 📞 Whatsapp: +55 043 99807-0042
-- 📧 Email: matheusescobozo@gmail.com
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscobz&theme=dark&layout=compact&hide_progress=true" alt="Top Langs" />
+</p>
+
+
+
+### 🤝 Vamos nos conectar?
+
+- 📧 **Email:** matheusescobozo@gmail.com  
+- 📞 **Whatsapp:** +55 (43) 99807-0042  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/seu-usuario-linkedin)  
+- 🌐 [**Portfólio**](https://seu-portfolio.com)
+
+
+
+<p><em>💡 Sempre aberto a novas ideias, colaborações e projetos empolgantes!</em></p>
