@@ -45,9 +45,9 @@
 
 - 📧 **Email:** matheusescobozo@gmail.com  
 - 📞 **Whatsapp:** +55 (43) 99807-0042  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/seu-usuario-linkedin)  
-- 🌐 [**Portfólio**](https://seu-portfolio.com)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/matheus-escobozo-1a09b81a3/)  
+- 🌐 [**Portfólio**](https://matheuscobz.github.io/portfolio/)
 
 
 
-<p><em>💡 Sempre aberto a novas ideias, colaborações e projetos empolgantes!</em></p>
+<p><em>💡 Sempre aberto a novas ideias, colaborações e projetos.</em></p>
