@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Matheus</h1>
 <h3 align="center">Ciêntista da Computação com foco no Desenvolvimento Full Stack</h3>
 
-### 🚀 Tecnologias com as quais tenho afinidade:
+### 🚀 Possuo experiência com:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -15,7 +15,7 @@
 </div>
 
 
-### 📚 Tecnologias que estou estudando atualmente:
+### 📚 Atualmente estudando:
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/knexjs/knexjs-original.svg" alt="Knex" width="40" height="40" />
