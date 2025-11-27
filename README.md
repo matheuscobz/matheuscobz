@@ -1,14 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Matheus</h1>
-<h3 align="center">Desenvolvedor de Software com formação em Ciência da Computação</h3>
-
-<p>Atualmente estou me aprofundando para virar <strong>FullStack</strong>.</p>
-<p>
-  Desde a faculdade, sempre fui movido pela curiosidade e pela vontade de resolver problemas com tecnologia. Ao longo da minha trajetória, explorei diferentes áreas da Computação, mas foi no desenvolvimento de software que encontrei minha vocação.
-
-  Me dedico ao aprendizado contínuo e gosto de transformar ideias em soluções funcionais e bem construídas. Hoje, estou focado em aprimorar minhas habilidades tanto no **Back-end** quanto no **Front-end**.
-</p>
-
----
+<h3 align="center">Ciêntista da Computação com foco no Desenvolvimento Full Stack</h3>
 
 ### 🚀 Tecnologias com as quais tenho afinidade:
 
