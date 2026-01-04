@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação em Ciência da Computação.
 - 💼 Trabalhando como FullStack na UNESPAR.
-- 
+
 ## Minhas Skills
 
 **Aplicações e dados**
