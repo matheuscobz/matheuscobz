@@ -1,35 +1,42 @@
-<h1 align="center">Olá 👋, eu sou o Matheus</h1>
-<h3 align="center">Ciêntista da Computação com foco no Desenvolvimento Full Stack</h3>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-### 🚀 Possuo experiência com:
+## Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-</div>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Formação em Ciência da Computação.
+- 💼 Trabalhando como FullStack na UNESPAR.
+- 
+## Minhas Skills
 
+**Aplicações e dados**
 
-### 📚 Atualmente estudando:
+![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/knexjs/knexjs-original.svg" alt="Knex" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/prisma/prisma-original.svg" alt="Prima" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/axios/axios-plain.svg" alt="Axios" width="40" height="40" />
-</div>
+**Utilidades**
 
-<br>
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscobz&theme=dark&layout=compact&hide_progress=true" alt="Top Langs" />
-</p>
+**DevOps**
 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
+<br/>
 
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
 
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/matheus-escobozo/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusescobozo@gmail.com)](mailto:matheusescobozo@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/matheuscobz)
