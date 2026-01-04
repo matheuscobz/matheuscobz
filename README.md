@@ -31,6 +31,4 @@
 
 
 ## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-matheus-escobozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-escobozo/)](https://www.linkedin.com/in/matheus-escobozo/)
 [![Gmail Badge](https://img.shields.io/badge/-matheusescobozo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusescobozo@gmail.com)](mailto:matheusescobozo@gmail.com)
