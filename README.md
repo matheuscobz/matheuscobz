@@ -6,7 +6,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Skills**
 
 ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
