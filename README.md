@@ -1,7 +1,5 @@
 ## Sobre mim
-- 🎓 Formação em Ciência da Computação.
-- 💼 Fullstack
-
+🎓 Formação em Ciência da Computação
 ## Minhas Skills
 
 ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
