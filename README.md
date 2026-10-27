@@ -27,12 +27,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 
-## Projetos
-
-Tenho interesse em desenvolver aplicações que resolvam problemas reais, com foco em organização, manutenção e boas práticas de código.
-
-Confira meus repositórios para conhecer meus projetos e estudos.
-
 ## Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheusescobozo@gmail.com)
