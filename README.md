@@ -4,7 +4,8 @@
 
 🎓 Formado em Ciência da Computação  
 💻 Desenvolvedor de Software
-🛠️ Experiência com desenvolvimento de aplicações web 
+
+🛠️ Experiência com desenvolvimento de aplicações web
 📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
 ## Tecnologias
