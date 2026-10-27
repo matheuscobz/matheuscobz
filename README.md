@@ -1,25 +1,38 @@
+# Olá! 👋
+
 ## Sobre mim
-🎓 Formação em Ciência da Computação
-## Minhas Skills
 
-![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+🎓 Formado em Ciência da Computação  
+💻 Desenvolvedor de Software
+🛠️ Experiência com desenvolvimento de aplicações web 
+📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
-**Utilidades**
+## Tecnologias
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+**Linguagens e desenvolvimento**
 
-**DevOps**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+**Banco de dados**
 
-<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**Ferramentas e infraestrutura**
 
-## Onde me encontrar
-[![Gmail Badge](https://img.shields.io/badge/-matheusescobozo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusescobozo@gmail.com)](mailto:matheusescobozo@gmail.com)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+
+## Projetos
+
+Tenho interesse em desenvolver aplicações que resolvam problemas reais, com foco em organização, manutenção e boas práticas de código.
+
+Confira meus repositórios para conhecer meus projetos e estudos.
+
+## Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheusescobozo@gmail.com)
